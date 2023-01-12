@@ -1,5 +1,5 @@
 version: '3'
 services:
   databot_compose:
-    image: datadock:lastest
+    image: atb9210/telegram-bot:1.0
 
